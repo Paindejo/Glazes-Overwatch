@@ -1,5 +1,0 @@
-Coloca aqui el ARTE GRANDE de cada heroe (WebP con fondo transparente, vertical, ej. 600x800).
-Mismo nombre que el icono: tracer.webp, genji.webp, dva.webp, soldier76.webp...
-Se usa en: banner superior (heroe del lider), perfil del jugador y tarjeta "Heroe mas jugado".
-Si falta un archivo, simplemente no se muestra arte (no se rompe nada).
-(Si prefieres otro formato, cambia 'formatoImagen' en datos.js y usa esa extension.)
