@@ -18,7 +18,38 @@ const CONFIG = {
 /* 2) CANALES DE TWITCH DE LOS PARTICIPANTES (opcional)
    El nombre debe ser igual al usado en las puntuaciones (no distingue mayúsculas). */
 const JUGADORES = {
-  "Ejemplo1": { twitch: "https://www.twitch.tv/ejemplo1" }
+  "vDanpurrr23y": { twitch: "https://www.twitch.tv/vDanpurrr23y" },
+  "vBandamsfan7": { twitch: "https://www.twitch.tv/vBandamsfan7" },
+  "7leo1": { twitch: "https://www.twitch.tv/7leo1" },
+  "AbyssCodex": { twitch: "https://www.twitch.tv/AbyssCodex" },
+  "Akaaliz": { twitch: "https://www.twitch.tv/Akaaliz" },
+  "Alexghoul_": { twitch: "https://www.twitch.tv/Alexghoul_" },
+  "AnahiMeow": { twitch: "https://www.twitch.tv/AnahiMeow" },
+  "Armas09": { twitch: "https://www.twitch.tv/Armas09" },
+  "CamposSG": { twitch: "https://www.twitch.tv/CamposSG" },
+  "Chewbis": { twitch: "https://www.twitch.tv/Chewbis" },
+  "Dinoterror321": { twitch: "https://www.twitch.tv/Dinoterror321" },
+  "EduardoNIUX13": { twitch: "https://www.twitch.tv/EduardoNIUX13" },
+  "El_conga": { twitch: "https://www.twitch.tv/El_conga" },
+  "ElCadaver_": { twitch: "https://www.twitch.tv/ElCadaver_" },
+  "ItsArly": { twitch: "https://www.twitch.tv/ItsArly" },
+  "ItsTiln": { twitch: "https://www.twitch.tv/ItsTiln" },
+  "KaoriRoa": { twitch: "https://www.twitch.tv/KaoriRoa" },
+  "Karto95v": { twitch: "https://www.twitch.tv/Karto95v" },
+  "Lagproyt777": { twitch: "https://www.twitch.tv/Lagproyt777" },
+  "Mariocodexs2_87": { twitch: "https://www.twitch.tv/Mariocodexs2_87" },
+  "Michuri23": { twitch: "https://www.twitch.tv/Michuri23" },
+  "Mizukiow": { twitch: "https://www.twitch.tv/Mizukiow" },
+  "Nyx_ow": { twitch: "https://www.twitch.tv/Nyx_ow" },
+  "Paindej0_": { twitch: "https://www.twitch.tv/Paindej0_" },
+  "Pende_gi0_": { twitch: "https://www.twitch.tv/Pende_gi0_" },
+  "Radychef": { twitch: "https://www.twitch.tv/Radychef" },
+  "Ririmoon": { twitch: "https://www.twitch.tv/Ririmoon" },
+  "Sailorney": { twitch: "https://www.twitch.tv/Sailorney" },
+  "Santimausan": { twitch: "https://www.twitch.tv/Santimausan" },
+  "vSteikyy_": { twitch: "https://www.twitch.tv/vSteikyy_" },
+  "WhoIsRobles": { twitch: "https://www.twitch.tv/WhoIsRobles" },
+  "ZenZen_ow": { twitch: "https://www.twitch.tv/ZenZen_ow" },
 };
 
 /* 2B) PREGUNTAS FRECUENTES (pestaña "Preguntas frecuentes")
