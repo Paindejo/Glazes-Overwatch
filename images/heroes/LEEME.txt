@@ -1,0 +1,4 @@
+Coloca aqui las imagenes de heroes en formato WebP (cuadradas, ej. 128x128).
+Nombre del archivo = nombre del heroe en minusculas, sin espacios, acentos ni signos.
+Ejemplos: tracer.webp, genji.webp, dva.webp (D.Va), soldier76.webp (Soldier: 76), wreckingball.webp
+(Si prefieres otro formato, cambia 'formatoImagen' en datos.js y usa esa extension.)
