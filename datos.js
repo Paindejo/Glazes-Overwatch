@@ -46,7 +46,7 @@ const JUGADORES = {
   "Radychef": { twitch: "https://www.twitch.tv/Radychef" },
   "Ririmoon": { twitch: "https://www.twitch.tv/Ririmoon" },
   "Sailorney": { twitch: "https://www.twitch.tv/Sailorney" },
-  "Santimaussan": { twitch: "https://www.twitch.tv/Santimausan" },
+  "Santimaussan": { twitch: "https://www.twitch.tv/Santimaussan" },
   "vSteikyy_": { twitch: "https://www.twitch.tv/vSteikyy_" },
   "WhoIsRobles": { twitch: "https://www.twitch.tv/WhoIsRobles" },
   "ZenZen_ow": { twitch: "https://www.twitch.tv/ZenZen_ow" },
