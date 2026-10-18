@@ -1,4 +1,0 @@
-Coloca aqui los iconos de rango en WebP (ej. 128x128).
-Nombres exactos: ladrillo.webp, bronce.webp, plata.webp, oro.webp, platino.webp, esmeralda.webp,
-diamante.webp, master.webp, grandmaster.webp, champion.webp, predator.webp
-(Si prefieres otro formato, cambia 'formatoImagen' en datos.js y usa esa extension.)
