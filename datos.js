@@ -1,8 +1,3 @@
-/* ============================================================
-   GLAZES DE OVERWATCH - ARCHIVO DE DATOS
-   Este es el ÚNICO archivo que necesitas editar para el día a día.
-   ============================================================ */
-
 /* 1) CONFIGURACIÓN GENERAL */
 const CONFIG = {
   titulo: "Glazes de Overwatch",
