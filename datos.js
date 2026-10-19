@@ -10,7 +10,7 @@ const CONFIG = {
   ultimasMostrar: 10                             // cuántas filas salen en "Últimas Puntuaciones"
 };
 
-/* 2) CANALES DE TWITCH DE LOS PARTICIPANTES (opcional)
+/* 2) CANALES DE TWITCH DE LOS PARTICIPANTES
    El nombre debe ser igual al usado en las puntuaciones (no distingue mayúsculas). */
 const JUGADORES = {
   "vDanpurrr23y": { twitch: "https://www.twitch.tv/vDanpurrr23y" },
@@ -47,12 +47,11 @@ const JUGADORES = {
   "ZenZen_ow": { twitch: "https://www.twitch.tv/ZenZen_ow" },
 };
 
-/* 2B) PREGUNTAS FRECUENTES (pestaña "Preguntas frecuentes")
-   p = la pregunta, r = la respuesta. Escribe el texto que quieras.
-   - Para un salto de línea dentro de la respuesta usa \n
+/* 2B) PREGUNTAS FRECUENTES
+   p = la pregunta, r = la respuesta.
+   - Para un salto de línea \n
    - Los enlaces completos (https://...) se vuelven clicables solos
-   - Evita usar comillas dobles (") dentro del texto; usa comillas simples (')
-   - Cada pregunta termina con coma. Copia y pega una línea para agregar más, bórrala para quitarla. */
+   - Evitar usar comillas dobles (") dentro del texto; usar comillas simples (')  */
 const FAQ = [
   { p: "¿Qué son las Glazes?",
     r: "Los Glazes son un formato donde vemos una partida donde el participante cree que jugó muy bien o hizo alguna jugada excepcional que merece ser apreciada \n Nosotros vemos la partida con el chat y la calificamos puntuandola con 'Aura' \n Hay una serie de reglas y rubros para poder calificar de manera correcta las partidas para cualquier rol y Héroe del juego." },
