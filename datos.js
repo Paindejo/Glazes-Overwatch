@@ -299,4 +299,5 @@ const PUNTUACIONES = [
   { jugador: "CamposSG", heroe: "Genji",     puntos: 3720, fecha: "2026-10-08" },
   { jugador: "ItsArly", heroe: "Jetpack Cat",     puntos: 2520, fecha: "2026-10-08" },
   { jugador: "EduardoNIUX13", heroe: "Hazard",     puntos: 4230, fecha: "2026-10-28" },
+  { jugador: "Alexghoul_", heroe: "Ashe",     puntos: 3850, fecha: "2026-10-28" },
 ];
