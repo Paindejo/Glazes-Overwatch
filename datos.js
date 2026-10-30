@@ -45,6 +45,7 @@ const JUGADORES = {
   "vSteikyy_": { twitch: "https://www.twitch.tv/vSteikyy_" },
   "WhoIsRobles": { twitch: "https://www.twitch.tv/WhoIsRobles" },
   "ZenZen_ow": { twitch: "https://www.twitch.tv/ZenZen_ow" },
+  "Sakura_A116": { twitch: "https://www.twitch.tv/Sakura_A116" },
 };
 
 /* 2B) PREGUNTAS FRECUENTES
@@ -302,4 +303,12 @@ const PUNTUACIONES = [
   { jugador: "Alexghoul_", heroe: "Ashe",     puntos: 3850, fecha: "2026-10-28" },
   { jugador: "Pende_gi0_", heroe: "Genji",     puntos: 2250, fecha: "2026-10-28" },
   { jugador: "ItsArly", heroe: "Jetpack Cat",     puntos: 2200, fecha: "2026-10-28" },
+  { jugador: "CamposSG", heroe: "Genji",     puntos: 3260, fecha: "2026-10-30" },
+  { jugador: "Lagproyt777", heroe: "Ana",     puntos: 2500, fecha: "2026-10-30" },
+  { jugador: "CamposSG", heroe: "Ashe",     puntos: 2410, fecha: "2026-10-30" },
+  { jugador: "Mizukiow", heroe: "Ana",     puntos: 830, fecha: "2026-10-30" },
+  { jugador: "vBandamsfan7", heroe: "Doomfist",     puntos: 4110, fecha: "2026-10-30" },
+  { jugador: "Pende_gi0_", heroe: "Lucio",     puntos: 1300, fecha: "2026-10-30" },
+  { jugador: "Sakura_A116", heroe: "Mercy",     puntos: 1700, fecha: "2026-10-30" },
+  { jugador: "Dinoterror321", heroe: "Doomfist",     puntos: 2400, fecha: "2026-10-30" },
 ];
