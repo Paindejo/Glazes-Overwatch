@@ -313,4 +313,5 @@ const PUNTUACIONES = [
   { jugador: "Dinoterror321", heroe: "Doomfist",     puntos: 2400, fecha: "2026-10-30" },
   { jugador: "vBandamsfan7", heroe: "Doomfist",     puntos: 4820, fecha: "2026-11-04" },
   { jugador: "Pende_gi0_", heroe: "Lucio",     puntos: 3300, fecha: "2026-11-04" },
+  { jugador: "CamposSG", heroe: "Genji",     puntos: 4800, fecha: "2026-11-06" },
 ];
